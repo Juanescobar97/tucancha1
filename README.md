@@ -1,2 +1,0 @@
-# cuatrodeseos
-Tienda virtual

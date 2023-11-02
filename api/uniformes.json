@@ -1,0 +1,357 @@
+{
+  "uniformes": [
+    {
+      "id": 1,
+      "nombre": "Giuseppe",
+      "division": "Jardin",
+      "prenda": "Bermuda azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 2,
+      "nombre": "Giuseppe",
+      "division": "Jardin",
+      "prenda": "Remera pique con logo",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 3,
+      "nombre": "Giuseppe",
+      "division": "Jardin",
+      "prenda": "Pantalón joggin azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 4,
+      "nombre": "Giuseppe",
+      "division": "Jardin",
+      "prenda": "Buzo azul francia con logo",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 5,
+      "nombre": "Giuseppe",
+      "division": "Jardin",
+      "prenda": "Medias azules",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 6,
+      "nombre": "Giuseppe",
+      "division": "Jardin",
+      "prenda": "Medias blancas",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 7,
+      "nombre": "Giuseppe",
+      "division": "Primaria",
+      "prenda": "Pollera azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+
+    {
+      "id": 8,
+      "nombre": "Giuseppe",
+      "division": "Primaria",
+      "prenda": "Camisa",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 9,
+      "nombre": "Giuseppe",
+      "division": "Primaria",
+      "prenda": "Pantalon de vestir azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 10,
+      "nombre": "Giuseppe",
+      "division": "Primaria",
+      "prenda": "Corbata",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 11,
+      "nombre": "Giuseppe",
+      "division": "Primaria",
+      "prenda": "Corbatin",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 12,
+      "nombre": "Giuseppe",
+      "division": "Primaria",
+      "prenda": "Sweater gris",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 13,
+      "nombre": "Berti",
+      "division": "Gimnasia",
+      "prenda": "Conjunto deportivo verde inglés",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 14,
+      "nombre": "Berti",
+      "division": "Gimnasia",
+      "prenda": "Chomba",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 15,
+      "nombre": "Berti",
+      "division": "Gimnasia",
+      "prenda": "Bermuda gris",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 16,
+      "nombre": "Berti",
+      "division": "Gimnasia",
+      "prenda": "Medias verde inglés",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 17,
+      "nombre": "Berti",
+      "division": "Secundaria",
+      "prenda": "Pollera gris",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 18,
+      "nombre": "Berti",
+      "division": "Secundaria",
+      "prenda": "Pantalón gris",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 19,
+      "nombre": "Berti",
+      "division": "Secundaria",
+      "prenda": "Camisa",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 20,
+      "nombre": "Berti",
+      "division": "Secundaria",
+      "prenda": "Corbata",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 21,
+      "nombre": "Berti",
+      "division": "Secundaria",
+      "prenda": "Cárdigan verde inglés",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 22,
+      "nombre": "Berti",
+      "division": "Secundaria",
+      "prenda": "Camperón verde inglés",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 23,
+      "nombre": "La Paz",
+      "division": "Primaria",
+      "prenda": "Remera blanca",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 24,
+      "nombre": "La Paz",
+      "division": "Primaria",
+      "prenda": "Chomba blanca",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 25,
+      "nombre": "La Paz",
+      "division": "Primaria",
+      "prenda": "Pantalón joggin azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 26,
+      "nombre": "La Paz",
+      "division": "Primaria",
+      "prenda": "Bermuda azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 27,
+      "nombre": "La Paz",
+      "division": "Primaria",
+      "prenda": "Buzo azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 28,
+      "nombre": "La Paz",
+      "division": "Secundaria",
+      "prenda": "Remera azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 29,
+      "nombre": "La Paz",
+      "division": "Secundaria",
+      "prenda": "Chomba azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 30,
+      "nombre": "La Paz",
+      "division": "Secundaria",
+      "prenda": "Pantalón joggin azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 31,
+      "nombre": "La Paz",
+      "division": "Secundaria",
+      "prenda": "Bermuda azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 32,
+      "nombre": "La Paz",
+      "division": "Secundaria",
+      "prenda": "Buzo azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 33,
+      "nombre": "Mimitos",
+      "division": "Jardin",
+      "prenda": "Conjunto invierno",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 34,
+      "nombre": "Mimitos",
+      "division": "Jardin",
+      "prenda": "Conjunto verano",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 35,
+      "nombre": "Fuente de vida",
+      "division": "Jardin",
+      "prenda": "Medias bordo",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 36,
+      "nombre": "Fuente de vida",
+      "division": "Jardin",
+      "prenda": "Remera bordo m/c y m/l",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 37,
+      "nombre": "Fuente de vida",
+      "division": "Jardin",
+      "prenda": "Short azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 38,
+      "nombre": "Fuente de vida",
+      "division": "Jardin",
+      "prenda": "Conjunto deportivo azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 39,
+      "nombre": "Fuente de vida",
+      "division": "Primaria",
+      "prenda": "Pollera azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 40,
+      "nombre": "Fuente de vida",
+      "division": "Primaria",
+      "prenda": "Pamtalón de vestir azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 41,
+      "nombre": "Fuente de vida",
+      "division": "Primaria",
+      "prenda": "Chomba",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 42,
+      "nombre": "Fuente de vida",
+      "division": "Primaria",
+      "prenda": "Sweater azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 43,
+      "nombre": "Fuente de vida",
+      "division": "Primaria",
+      "prenda": "Cardigan azul marino",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    },
+    {
+      "id": 44,
+      "nombre": "Fuente de vida",
+      "division": "Primaria",
+      "prenda": "Medias bordo",
+      "precio": "$$$",
+      "img": "https://drive.google.com/file/d/1aI4Cu-gYrMjuClGqdcflulDW004QRQ9h/view?usp=sharing"
+    }
+  ]
+}

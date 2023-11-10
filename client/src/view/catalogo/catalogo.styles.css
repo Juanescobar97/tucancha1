@@ -1,0 +1,17 @@
+.catalogo {
+    margin: 0.5%;
+}
+
+.cat-title{
+    margin-top: 20px;
+    margin-bottom: 3px;
+    font-size: 20px;
+    color: #46351d;
+    text-align: center;
+}
+
+.catalogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

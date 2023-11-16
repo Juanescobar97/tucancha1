@@ -1,12 +1,13 @@
-// import "./landing.styles.css";
+import "./landing.styles.css";
 import Navbar from "../../components/navbar/navbar";
 
 function Landing() {
   return (
-    <div>
+    <div className="landing">
       <Navbar />
-      <p>Estás en la Landing</p>
+      <p>Te presentamos nuestra Tienda Virtual</p>
 
+      <h1 className="abajo">Que bueno verte por acá!</h1>
     </div>
   );
 }

@@ -1,12 +1,12 @@
 import './carrito.styles.css';
-
+import Navbar from '../../components/navbar/navbar';
 
 
 function Carrito() {
   return (
-    <div>
-      
-      <p>Estás en el carrito</p>
+    <div className='carrito'>
+      <Navbar />
+      <p className='car-title'>Estás en el carrito</p>
     </div>
   );
 }

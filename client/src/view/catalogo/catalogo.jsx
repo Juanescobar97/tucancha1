@@ -7,6 +7,7 @@ import Navbar from "../../components/navbar/navbar";
 import Cards from "../../components/cards/cards";
 import "./catalogo.styles.css";
 
+
 function Home() {
   const dispatch = useDispatch();
   const allUniformes = useSelector((state) => state.allUniformes);

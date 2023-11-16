@@ -1,9 +1,80 @@
+.fija{
+  top: 0;
+  z-index: 1;
+}
+.logo{
+  
+  width: 280px;
+  height: 300px;
+  position:absolute;
+  top: -100px;
+  left: 100px;
+}
 
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #bd8b26;
-    color: #fff;
-    padding: 10px;
+.form{
+  right: 100px;
+  top: 28px;
+  list-style-type: none;
+  position: absolute;
+}
+
+ul {
+  right: -700%;
+  left: -100%;
+  width: 100%;
+  justify-content: center;
+  list-style-type: none;
+  margin-left: 0px;
+  padding: 10px;
+  overflow: hidden;
+ 
+}
+
+li {
+  float: left;
+  align-items: center;
+}
+
+li a {
+  display: block;
+  color: #46351d;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #604920;
+  color:white;
+}
+
+.btn{
+  float: right;
+  border: none; 
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: #46351d; 
+  padding: 14px 20px 30px; 
+  cursor: pointer; 
+  border: 2px solid #684e1f
+}
+.btn:hover{
+  background-color: #684e1f;
+  color:white;
+
+}
+.input{
+  border-left: 2px solid #684e1f;  
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  padding: 14px 5px;
+  box-sizing: border-box;
+  background-color: transparent;
+}
+
+.lupa{
+  width: 20px;
+  right: 12px;
+  top: 14px;
+  position:absolute;
 }

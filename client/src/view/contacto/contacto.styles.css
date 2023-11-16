@@ -1,0 +1,35 @@
+.contacto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+  }
+  .num{
+    text-decoration: none;
+  }
+
+  .wpp{
+    display:grid;
+    position: absolute;
+    margin-left: -430px;
+    margin-top: 0px;
+    width: 18px;
+  }
+  .ubi{
+    display:grid;
+    position: absolute;
+    margin-left: -430px;
+    margin-top: 0px;
+    width: 14px;
+  }
+  h5{
+    margin-left: -400px ;
+  }
+
+  .insta{
+    display:grid;
+    position: absolute;
+    margin-left: -430px;
+    margin-top: 0px;
+    width: 16px;
+  }

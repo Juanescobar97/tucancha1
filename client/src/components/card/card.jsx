@@ -6,11 +6,11 @@ function Card({ uniforme }) {
 
   return (
     <div className="card-container">
-      <Link to={`/catalogo/${id}`}>
+      <Link className="link" to={`/catalogo/${id}`}>
         <img className="img-container" src={img} alt="uniforme" />
-        <p>{nombre}</p>
-        <p>{division}</p>
-        <h4>{prenda}</h4>
+        <h4 className="nombre">{nombre}</h4>
+        <p className="nombre">{division}</p>
+        <a className="nombre">{prenda}</a>
       </Link>
     </div>
   );

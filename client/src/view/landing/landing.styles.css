@@ -6,6 +6,26 @@
 }
 
 .abajo {
-  position: fixed;
   bottom: 0;
+}
+.logo2{
+  display: flex;
+  margin-top: -250px;
+  margin-left: 600px;
+}
+.titulo{
+  display: flex;
+  margin-top: 150px;
+  align-items: column;
+  margin-right: 600px;
+}
+.subtitulo{
+  display: flex;
+  align-items: column;
+  margin-right: 580px;
+}
+.ig{
+  display: flex;
+  margin-right: 780px;
+  margin-top: -100px;
 }

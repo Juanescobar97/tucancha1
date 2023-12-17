@@ -6,7 +6,7 @@ function Navbar({handleChange, handleSubmit}) {
     <div className="fija">
             {/* <img className="logoig" src="https://media-public.canva.com/y-KeA/MADzG9y-KeA/2/tl.png" alt="logoig" /> */}
 
-            <a href="/"><img className="logo" src="https://i.ibb.co/JrJ0673/cuatro-deseos-SIN-FONDO.png" alt="logo" /></a>
+            <a href="/"></a><img className="logo" src="https://i.ibb.co/JrJ0673/cuatro-deseos-SIN-FONDO.png" alt="logo" />
       <ul className="ul">
       <li className="hccc" ><a href="/" >HOME</a></li>
       <li className="hccc" ><a href="/catalogo">CATÁLOGO</a></li>

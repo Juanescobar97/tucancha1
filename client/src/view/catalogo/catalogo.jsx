@@ -54,13 +54,7 @@ function Home() {
           referrerpolicy="no-referrer-when-downgrade"
         ></iframe>
       </div>
-      {/* <div className="cards">
-        {loading ?(<p>Cargando...</p>) : (
-        <Cards allUniformes={filtered.length > 0 ? filtered : allUniformes} />
-        //Esto hace que si el allUniformes está vacio se rendericen las cards igual..
-      )}
-      </div> */}
-    </div>
+        </div>
   );
 }
 

@@ -1,22 +1,39 @@
-import "./navbar.styles.css"
-import React from "react"
+import "./navbar.styles.css";
+import React from "react";
 
-function Navbar({handleChange, handleSubmit}) {
+function Navbar() {
   return (
-    <div className="fija">
-            {/* <img className="logoig" src="https://media-public.canva.com/y-KeA/MADzG9y-KeA/2/tl.png" alt="logoig" /> */}
-
-            <a href="/"></a><img className="logo" src="https://i.ibb.co/JrJ0673/cuatro-deseos-SIN-FONDO.png" alt="logo" />
-      <ul className="ul">
-      <li className="hccc" ><a href="/" >HOME</a></li>
-      <li className="hccc" ><a href="/catalogo">CATÁLOGO</a></li>
-      <li className="hccc" ><a href="/contacto" >CONTACTO</a></li>
-      <li className="hccc" ><a href="/carrito" >CARRITO</a></li>
+    <div className="navbar">
+      <a href="/"><img
+        className="logo"
+        src="https://i.ibb.co/WWYhTsF/Dise-o-sin-t-tulo-removebg-preview-1.png"
+        alt="logo"
+      /></a>
+      <ul>
+        <div className="botones">
+          <li>
+            <img className="pelota" src="https://media-public.canva.com/NlhKo/MAFrOYNlhKo/1/tl.png" alt="pelota" />
+            <h8>en  vivo</h8>
+            <a href="/">¡AHORA!</a>
+          </li>
+          <li>
+            <img className="cancha" src="https://i.ibb.co/cc0s8KJ/cancha.png" alt="cancha" />
+            <a href="/catalogo">CANCHAS</a>
+          </li>
+          <li>
+            <img className="camiseta" src="https://i.ibb.co/ZT0SzpL/camiseta.png" alt="camiseta" />
+            <a href="">SE BUSCA RIVAL</a>
+          </li>
+          <li >
+            <img className="perfil" src="https://i.ibb.co/stFZYND/perfil.png" alt="perfil" />
+            <a href="/carrito">PERFIL</a>
+          </li>
+          <li >
+            <img className="contactoimg" src="https://i.ibb.co/hV09Mj3/contacto-1.png" alt="contacto" />
+            <a href="/contacto">CONTACTO</a>
+          </li>
+        </div>
       </ul>
-      <li className="form"><form onChange={handleChange}>
-        <input className="input"  placeholder="Ingrese nombre de la escuela" type="search"></input>
-        <button className="btn" type="submit" onClick={handleSubmit}>{<img className="lupa" src="https://media-public.canva.com/zhMpA/MAD5-NzhMpA/1/tl.png" />}</button>
-      </form></li>
     </div>
   );
 }

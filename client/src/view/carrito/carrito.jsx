@@ -2,13 +2,14 @@ import './carrito.styles.css';
 import Navbar from '../../components/navbar/navbar';
 
 
-function Carrito() {
+function Perfil() {
   return (
     <div className='carrito'>
       <Navbar />
-      <p className='car-title'>Estás en el carrito</p>
+      <h2 className='car-title'>PERFIL</h2>
+      
     </div>
   );
 }
 
-export default Carrito;
+export default Perfil;

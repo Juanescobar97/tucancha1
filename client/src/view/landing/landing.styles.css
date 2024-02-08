@@ -1,31 +1,127 @@
 .landing {
-  display: flex;
+  display:flex;
+  margin-left: -10px;
   flex-direction: column;
   align-items: center;
-  margin: 0%;
+  color: white;
 }
 
-.abajo {
-  bottom: 0;
-}
-.logo2{
-  display: flex;
-  margin-top: -250px;
-  margin-left: 600px;
-}
 .titulo{
   display: flex;
-  margin-top: 150px;
-  align-items: column;
-  margin-right: 600px;
+  margin-left: 200px;
+  color: white;
 }
-.subtitulo{
+
+.btn {
   display: flex;
-  align-items: column;
-  margin-right: 580px;
+  border: none; 
+  color: black; 
+  margin-left: 200px;
+  padding: 12px 20px; 
+  cursor: pointer; 
+  border-radius:40px; 
 }
-.ig{
+.btn {background-color: white; border: 2px solid #141f08;} 
+.btn:hover {background: #283618; color: white;}
+
+/* Style The Dropdown Button */
+.dropbtn {
+  background-color: rgb(49, 49, 49);
+  color: rgb(172, 172, 172);
+  padding: 8px 15px;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  margin-right: 30px;
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  color: white;
+  background-color: #2b2b2b;
+  width: 150px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: rgb(207, 207, 207);
+  padding: 12px 16px;
+  text-decoration: none;
+  font-size: 12px;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {color: white;
+}
+
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: rgb(75, 75, 75);
+  color: white;
+}
+.dias{
   display: flex;
-  margin-right: 780px;
-  margin-top: -100px;
+  margin-top: 20px;
+  margin-right: -200px;
+}
+
+
+.btndia{
+  display: flex;
+  align-items: center;
+  margin-left: 200px;
+  border: 1px solid rgb(88, 88, 88); 
+  margin: 5px;
+  background-color: rgb(29, 29, 29);  
+  color: rgb(165, 165, 165); 
+  padding: 10px 10px; 
+  cursor: pointer; 
+  border-radius:10px; 
+  font-size: 10px;
+  width: 50px;
+  height: 50px;
+  font-size:15px;
+}
+.btndia:hover{
+  background-color: rgb(75, 75, 75);
+}
+.filtros{
+  display: flex;
+  margin-right: -200px;
+}
+.input{
+  border-radius: 10px 0 0 10px ;
+  border: 1px solid rgb(88, 88, 88);
+}
+.lupa{
+  display: flex;
+  margin-top: 0px;
+  margin-left: 1px;
+  height: 20px;
+  width: 20px;
+
+}
+.search{
+  width: 38px;
+}
+
+.landing p {
+display: flex;
+margin-left: 200px;
 }

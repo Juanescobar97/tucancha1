@@ -1,5 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
 import { Routes, Route } from "react-router-dom";
+import Form from "./components/form/form";
 
 import "./App.css"
 
@@ -13,6 +14,7 @@ function App() {
     <BrowserRouter>
       <div className="app">
         <Routes>
+          <Route path="/form" element={<Form />}></Route>
           <Route path="/" element={<Landing/>} />
           <Route exact path="/catalogo" element={<Catalogo/>} />
           <Route path="/catalogo/:id" element={<Carrito/>} />
